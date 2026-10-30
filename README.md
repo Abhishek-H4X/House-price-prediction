@@ -6,7 +6,7 @@ An end-to-end Machine Learning web application that predicts housing prices in C
 
 ## 🚀 Live Demo
 *(If you deploy it on Streamlit Community Cloud, add your link here!)*  
-🔗 [Check out the live app here](#) 
+https://house-price-prediction-q8jgiappt4lywvqycgjfyzq.streamlit.app/
 
 ---
 
